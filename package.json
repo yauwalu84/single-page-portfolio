@@ -2,7 +2,7 @@
   "name": "single-page-porfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/yauwalu84/single-page-portfolio",
+  "homepage": "https://github.com/yauwalu84/single-page-portfolio.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
