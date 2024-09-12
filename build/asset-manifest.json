@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yauwalu84/single-page-portfolio.git/static/css/main.b60bf6f8.css",
+    "main.js": "/yauwalu84/single-page-portfolio.git/static/js/main.54c4ad32.js",
+    "static/media/thumbnail-project-4-large.webp": "/yauwalu84/single-page-portfolio.git/static/media/thumbnail-project-4-large.751a4aca20e0604e0904.webp",
+    "static/media/thumbnail-project-6-large.webp": "/yauwalu84/single-page-portfolio.git/static/media/thumbnail-project-6-large.1bb664dcc9883bc285db.webp",
+    "static/media/image-profile-desktop.webp": "/yauwalu84/single-page-portfolio.git/static/media/image-profile-desktop.40dab61f7ce1c269d011.webp",
+    "static/media/thumbnail-project-1-large.webp": "/yauwalu84/single-page-portfolio.git/static/media/thumbnail-project-1-large.a3cdd4320a0ecdd0855f.webp",
+    "static/media/thumbnail-project-2-large.webp": "/yauwalu84/single-page-portfolio.git/static/media/thumbnail-project-2-large.e06e1b03f76ad1010133.webp",
+    "static/media/thumbnail-project-3-large.webp": "/yauwalu84/single-page-portfolio.git/static/media/thumbnail-project-3-large.204666234bbd998df57f.webp",
+    "static/media/thumbnail-project-5-large.webp": "/yauwalu84/single-page-portfolio.git/static/media/thumbnail-project-5-large.bc869bfce11bf4174bdd.webp",
+    "static/media/icon-github.svg": "/yauwalu84/single-page-portfolio.git/static/media/icon-github.376f746105559084ee856620094454e7.svg",
+    "index.html": "/yauwalu84/single-page-portfolio.git/index.html",
+    "static/media/icon-twitter.svg": "/yauwalu84/single-page-portfolio.git/static/media/icon-twitter.629d1a7a6ef2cb5f9c2fff0113fefc9a.svg",
+    "static/media/icon-linkedin.svg": "/yauwalu84/single-page-portfolio.git/static/media/icon-linkedin.299a1d811c6c10d4964a7018ae43228e.svg",
+    "static/media/icon-frontend-mentor.svg": "/yauwalu84/single-page-portfolio.git/static/media/icon-frontend-mentor.4b5f99515736c1a6c8b206e4c73dd048.svg",
+    "static/media/pattern-rings.svg": "/yauwalu84/single-page-portfolio.git/static/media/pattern-rings.e62a24d55bee668faa1f245882fad1b7.svg",
+    "static/media/pattern-circle.svg": "/yauwalu84/single-page-portfolio.git/static/media/pattern-circle.0e9ea7e2d6255d388d672d05bb9cfb04.svg",
+    "main.b60bf6f8.css.map": "/yauwalu84/single-page-portfolio.git/static/css/main.b60bf6f8.css.map",
+    "main.54c4ad32.js.map": "/yauwalu84/single-page-portfolio.git/static/js/main.54c4ad32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60bf6f8.css",
+    "static/js/main.54c4ad32.js"
+  ]
+}
