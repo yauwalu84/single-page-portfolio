@@ -1,0 +1,50 @@
+{
+  "name": "single-page-porfolio",
+  "private": true,
+  "version": "0.0.0",
+  "homepage": "https://github.com/yauwalu84/single-page-portfolio",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "react-scripts build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "eslint": "^5.16.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.2.1",
+    "react-refresh": "^0.14.2",
+    "react-router-dom": "^6.26.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-transform-private-property-in-object": "^7.24.7",
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^3.0.0",
+    "autoprefixer": "^10.4.13",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
